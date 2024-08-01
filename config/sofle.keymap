@@ -11,7 +11,7 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/rgb.h>
 
-&led_strip { chain-length = <VALOR_DOS_LEDS27>; };
+&led_strip { chain-length = <72>; };
 
 //Encoder Support
 //Alps Alpine EC11N1524402: 30 Detent, 15PPR, 2 Channel, Quadrature, 15000 Cycle
